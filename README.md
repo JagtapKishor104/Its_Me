@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jagtapkishor0001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jagtapkishor
+- 👀 I’m interested in Angular Development
+- 🌱 I’m currently learning MEAN Stack. 
+-    My current Location is Hadapsar, Pune, Maharashtra, India
+- 📫 To reach Mail at jagtapkishor104@gmail.com
 
-<!---
-jagtapkishor0001/jagtapkishor0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
